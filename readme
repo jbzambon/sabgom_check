@@ -1,0 +1,7 @@
+jbzambon@omgsrv3:~$ source activate jbzambon
+(jbzambon) jbzambon@omgsrv3:~$ vi sabgom_check.py
+(jbzambon) jbzambon@omgsrv3:~$ python sabgom_check.py 
+2017-01-27 15:00:00
+...
+2017-04-02 00:00:00
+
